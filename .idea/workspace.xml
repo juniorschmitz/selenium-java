@@ -166,11 +166,11 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.BuscarPorProdutosTest.testFillFormContactUs">
+  <component name="RunManager" selected="JUnit.AllTests.testFillFormContactUs">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
-    <configuration name="BuscarPorProdutosTest.testAccessContactUs" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="AllTests.testAccessContactUs" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="SeleniumeJava" />
       <extension name="coverage">
         <pattern>
@@ -181,7 +181,7 @@
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="tests" />
-      <option name="MAIN_CLASS_NAME" value="tests.BuscarPorProdutosTest" />
+      <option name="MAIN_CLASS_NAME" value="tests.AllTests" />
       <option name="METHOD_NAME" value="testAccessContactUs" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -193,7 +193,7 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="BuscarPorProdutosTest.testBuscarPorProdutoValido" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="AllTests.testBuscarPorProdutoValido" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="SeleniumeJava" />
       <extension name="coverage">
         <pattern>
@@ -204,7 +204,7 @@
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="tests" />
-      <option name="MAIN_CLASS_NAME" value="tests.BuscarPorProdutosTest" />
+      <option name="MAIN_CLASS_NAME" value="tests.AllTests" />
       <option name="METHOD_NAME" value="testBuscarPorProdutoValido" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -216,7 +216,7 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="BuscarPorProdutosTest.testFillFormContactUs" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="AllTests.testFillFormContactUs" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="SeleniumeJava" />
       <extension name="coverage">
         <pattern>
@@ -227,7 +227,7 @@
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="tests" />
-      <option name="MAIN_CLASS_NAME" value="tests.BuscarPorProdutosTest" />
+      <option name="MAIN_CLASS_NAME" value="tests.AllTests" />
       <option name="METHOD_NAME" value="testFillFormContactUs" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -239,7 +239,7 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="BuscarPorProdutosTest.testSearchForValidProduct" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="AllTests.testSearchForValidProduct" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="SeleniumeJava" />
       <extension name="coverage">
         <pattern>
@@ -250,7 +250,7 @@
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="tests" />
-      <option name="MAIN_CLASS_NAME" value="tests.BuscarPorProdutosTest" />
+      <option name="MAIN_CLASS_NAME" value="tests.AllTests" />
       <option name="METHOD_NAME" value="testSearchForValidProduct" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -301,17 +301,17 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="JUnit.BuscarPorProdutosTest.testBuscarPorProdutoValido" />
-      <item itemvalue="JUnit.BuscarPorProdutosTest.testSearchForValidProduct" />
-      <item itemvalue="JUnit.BuscarPorProdutosTest.testAccessContactUs" />
-      <item itemvalue="JUnit.BuscarPorProdutosTest.testFillFormContactUs" />
+      <item itemvalue="JUnit.AllTests.testBuscarPorProdutoValido" />
+      <item itemvalue="JUnit.AllTests.testSearchForValidProduct" />
+      <item itemvalue="JUnit.AllTests.testAccessContactUs" />
+      <item itemvalue="JUnit.AllTests.testFillFormContactUs" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.BuscarPorProdutosTest.testFillFormContactUs" />
-        <item itemvalue="JUnit.BuscarPorProdutosTest.testAccessContactUs" />
-        <item itemvalue="JUnit.BuscarPorProdutosTest.testSearchForValidProduct" />
-        <item itemvalue="JUnit.BuscarPorProdutosTest.testBuscarPorProdutoValido" />
+        <item itemvalue="JUnit.AllTests.testFillFormContactUs" />
+        <item itemvalue="JUnit.AllTests.testAccessContactUs" />
+        <item itemvalue="JUnit.AllTests.testSearchForValidProduct" />
+        <item itemvalue="JUnit.AllTests.testBuscarPorProdutoValido" />
       </list>
     </recent_temporary>
   </component>
@@ -362,7 +362,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" />
       <window_info anchor="bottom" id="TODO" order="6" />
